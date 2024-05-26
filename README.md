@@ -31,7 +31,7 @@ This project is an Event Management System (Attendee module) that allows users t
 - JWT (for authentication)
 - Mongoose (for MongoDB object modeling)
 
-##Project Structure
+## Project Structure
 ## Frontend
 
 src/
