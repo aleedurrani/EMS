@@ -114,7 +114,7 @@ src/
 
 └── app.js
 
-##Installation
+## Installation
 
 ### Prerequisites
 - Node.js and npm
