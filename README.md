@@ -173,5 +173,5 @@ src/
 - GET /api/notifications - Get all notifications
 - POST /api/notifications - Create a new notification
 
-##License
+## License
 This project is licensed under the MIT License. 
